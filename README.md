@@ -22,6 +22,10 @@ It is recomended to fix the board to the CM4 board with standoffs, not rely sole
 
 The adapter seems to work fine on the CM4 board without fitting the passives (capacitors and LED).
 
+## Improvement ideas
+
+ * get out of the way for the CAM0 FPC cable
+
 ## Revisions
 
  * 0.8.2 finger board improvements, minor size adjustments
