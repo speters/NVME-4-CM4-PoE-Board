@@ -4,6 +4,8 @@ This is an NVME (M-key) adapter board for the PCIEx1 slot.
 
 ![PCB renderings](doc/preview_pcb.png)
 
+![PCB renderings](doc/preview_sch.png)
+
 It is build to fit the [Waveshare CM4G-IO-POE-4G-BOX](https://www.waveshare.com/wiki/Compute_Module_4_PoE_4G_Board#Isolation_GPIO.2FI2C).
 
 ![adapter in use](doc/IMG_20230401_140919_resized.jpg)
