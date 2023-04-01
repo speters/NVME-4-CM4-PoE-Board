@@ -15,6 +15,8 @@ It is build to fit the [Waveshare CM4G-IO-POE-4G-BOX](https://www.waveshare.com/
 The PCB is cost-optimized to be produced by services like JLCPCB.
 
 You have to separate the finger board from the PCB and solder it into its slot.
+Make sure the finger board is at right angles to the main PCB when soldering.
+
 A standoff and screw for mounting the NVME has to be provided.
 It is recomended to fix the board to the CM4 board with standoffs, not rely solely on the PCIEx1 connector to hold everything in place.
 
