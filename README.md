@@ -24,6 +24,8 @@ The adapter seems to work fine on the CM4 board without fitting the passives (ca
 
 ## Improvement ideas
 
+ * chose gold fingers for production (I went as cheap as possible with HASL)
+
  * get out of the way for the CAM0 FPC cable
 
 ## Revisions
