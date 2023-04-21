@@ -18,7 +18,7 @@ You have to separate the finger board from the PCB and solder it into its slot.
 Make sure the finger board is at right angles to the main PCB when soldering.
 
 An NVME M-key connector, a standoff, and screw for mounting the NVME has to be provided.
-It is recomended to fix the board to the CM4 board with standoffs, not rely solely on the PCIEx1 connector to hold everything in place. For doing this, there are two holes matching holes in the baseboard PCB.
+It is recommended to fix the board to the CM4 board with standoffs, not rely solely on the PCIEx1 connector to hold everything in place. For doing this, there are two holes matching holes in the baseboard PCB.
 
 The adapter seems to work fine on the CM4 board without fitting the passives (capacitors and LED).
 
