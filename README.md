@@ -22,6 +22,8 @@ It is recommended to fix the board to the CM4 board with standoffs, not rely sol
 
 The adapter seems to work fine on the CM4 board without fitting the passives (capacitors and LED).
 
+Remember that your kernel needs PCIe support. There is a convenient [docker cross-compile environment by Jeff Geerling](https://github.com/geerlingguy/raspberry-pi-pcie-devices/tree/master/extras/cross-compile).
+
 ## Improvement ideas
 
  * choose gold fingers for production (I went as cheap as possible with HASL)
