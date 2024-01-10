@@ -6,8 +6,8 @@
 
   (title_block
     (title "mechanical stuff, proto area")
-    (date "2023-03-20")
-    (rev "0.8.2")
+    (date "2024-01-10")
+    (rev "0.9.0")
     (company "Sönke J. Peters")
   )
 

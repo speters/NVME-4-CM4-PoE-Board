@@ -2,6 +2,16 @@
 
 This is an NVME (M-key) adapter board for the PCIEx1 slot.
 
+## Revisions
+
+ * 0.9.0 added oscillator for 32.768kHz SUSClk signal
+
+ * 0.8.2 finger board improvements, minor size adjustments
+
+ * 0.8.1 working version, gone into small production run
+
+## Description
+
 ![PCB renderings](doc/preview_pcb.png)
 
 ![PCB renderings](doc/preview_sch.png)
@@ -29,11 +39,5 @@ Remember that your kernel needs PCIe support. There is a convenient [docker cros
  * choose gold fingers for production (I went as cheap as possible with HASL)
 
  * get out of the way for the CAM0 FPC cable
-
-## Revisions
-
- * 0.8.2 finger board improvements, minor size adjustments
-
- * 0.8.1 working version, gone into small production run
 
 
