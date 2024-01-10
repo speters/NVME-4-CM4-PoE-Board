@@ -2,6 +2,8 @@
 
 This is an NVME (M-key) adapter board for the PCIEx1 slot.
 
+Its PCB is design with a break-away section for the fingered connector. This is then soldered in a matching slot of the PCB to form a 90 degree connector.
+
 ## Revisions
 
  * 0.9.0 added oscillator for 32.768kHz SUSClk signal
