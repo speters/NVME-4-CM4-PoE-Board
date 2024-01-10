@@ -12,6 +12,7 @@ This is an NVME (M-key) adapter board for the PCIEx1 slot.
 
 ## Description
 
+PCB of the 0.8.2 version without SUSClk
 ![PCB renderings](doc/preview_pcb.png)
 
 ![PCB renderings](doc/preview_sch.png)
